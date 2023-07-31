@@ -8,8 +8,6 @@ const handleChange = (event) => {
 
 };
 
-
-
 const handleSubmit = (event) => {
   event.preventDefault();
 
