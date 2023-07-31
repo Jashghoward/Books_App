@@ -23,9 +23,7 @@ function App() {
 
     setBooks(updatedBooks);
   };
-
   
-
   const createBook = (title) => {
     const updatedBooks = [...books, {
        id: Math.round(Math.random() * 9999 ),
