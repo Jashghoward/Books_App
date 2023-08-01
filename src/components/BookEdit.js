@@ -25,6 +25,4 @@ const handleSubmit = (event) => {
   );
 }
 
-
-
 export default BookEdit;
