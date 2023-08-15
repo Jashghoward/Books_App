@@ -10,6 +10,7 @@ function BookShow({ book, onDelete, onEdit }) {
     onDelete(book.id); 
   };
 
+  
   const handleEditClick = () => {
     setShowEdit(!showEdit);
   };
