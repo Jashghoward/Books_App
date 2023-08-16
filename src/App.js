@@ -34,7 +34,6 @@ function App() {
     setBooks(updatedBooks);
   };
 
-
   return (
     <div className="app">
       <h1>Reading List</h1>
