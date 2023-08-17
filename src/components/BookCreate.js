@@ -12,7 +12,6 @@ function BookCreate({ onCreate }) {
     onCreate(title);
     setTitle('');
   };
-  
 
   return (
   <div className="book-create">
