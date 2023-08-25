@@ -24,7 +24,7 @@ function BookCreate({ onCreate }) {
   </div>
   );
 
-  
-}
 
+}
 export default BookCreate;
+
